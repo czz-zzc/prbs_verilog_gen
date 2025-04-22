@@ -17,7 +17,7 @@
 | Argument         | Shorthand | Description                                                                 |
 |------------------|-----------|-----------------------------------------------------------------------------|
 | `--coefficients` | `-c`      | Polynomial coefficients (comma-separated, e.g., `0,0,0,0,0,1,1`).           |
-| `--length`       | `-t`      | Shift times (e.g., `12`, `20`).                                         |
+| `--times`        | `-t`      | Shift times (e.g., `12`, `20`).                                             |
 | `--width`        | `-w`      | Output width (e.g., `32`).                                                  |
 | `--output`       | `-o`      | Save path for the generated Verilog file. Defaults to the current directory.|
 | `--seed`         | `-s`      | Optional seed to include in the module name for differentiation.            |
